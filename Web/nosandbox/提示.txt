@@ -1,0 +1,1 @@
+修复了权限问题，重置了题目环境。 预期步骤需要先读取根目录下/flag的密钥信息，真正的flag需要RCE获得。 We have fixed the permission issues and reset the challenge environment. The expected solution requires first reading the key information from the /flag in the root directory. To get the real flag, you need to RCE.

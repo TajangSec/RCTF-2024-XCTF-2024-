@@ -1,0 +1,3 @@
+Yet another homemade RNG.
+
+nc 123.60.161.30 10089

@@ -1,0 +1,2 @@
+Conventional
+flag格式：RCTF{this_is_example}

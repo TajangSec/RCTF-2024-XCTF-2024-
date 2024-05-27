@@ -1,0 +1,10 @@
+from Crypto.Util.number import bytes_to_long as b2l, isPrime
+
+nc 121.37.167.239 10089
+
+
+p, hello = int(input("p = ")), input("hello = ")
+assert p.bit_length() == 100 and isPrime(p)
+assert b2l(f"{hello}$".encode()) % p == b2l(b"hello")
+assert len(hello) == 64 and all(x.upper() in "XCTF" for x in hello)
+print(f'Hello XCTFer! Take your spoils: {open("flag.txt", "r").read()}')

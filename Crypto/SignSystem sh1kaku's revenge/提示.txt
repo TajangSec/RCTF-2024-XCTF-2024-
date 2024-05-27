@@ -1,0 +1,2 @@
+1. intended solution is probabilistic but not deterministic 
+2. tan make some y bad 3. lattie reduction is helpful when solving linear equation

@@ -1,0 +1,3 @@
+Score>3000 to obtain a flag
+
+attachment

@@ -1,0 +1,6 @@
+nc 1.94.13.174 10089
+
+This is the revenge challenge for SignSystem: Dilithium, which has fixed the unintended solution. We have modified the following source code files in the original challenge:
+
+task/task.c
+poly.c

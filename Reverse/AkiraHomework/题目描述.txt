@@ -1,0 +1,3 @@
+Akira is finally about to graduate with a PhD, but finding a job these days is really difficult. People say “making rockets in interviews, tightening screws in work”, which makes Akira very distressed as she approaches graduation. With such a mood, he completed his last assignment.
+
+Wrap the obtained string around RCTF{}
